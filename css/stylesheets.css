@@ -28,7 +28,7 @@ h1 {
 }
 
 #container {
-  background-image: url("../img/SkyBackground.jpg"); /* change */
+  background-image: url("../img/Skybackground.jpg"); /* change */
   min-height: 100%;
   max-width: 960px;
   margin: 0 auto;
